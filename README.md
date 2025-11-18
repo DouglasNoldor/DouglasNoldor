@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CobuildLab as a No code Developer (Bubble.io)
+- 🔭 I’m currently working as a No code Developer (Bubble.io)
 - 🌱 I’m currently learning HTML5, .CSS3, JavaScript, Node.js, React etc
 - 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for help with coding
